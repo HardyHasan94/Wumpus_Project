@@ -1,0 +1,51 @@
+// first set
+100% risk: -72
+0% risk: 266
+10% risk: 241
+
+
+// second set
+100% risk: -241
+0% risk: 237
+10% risk:
+
+
+// third set
+100% risk: -345
+0% risk: 201
+
+
+// fourth set
+100% risk:
+0% risk: 237
+10% risk:
+
+
+// fifth set
+100% risk:
+0% risk: 216
+10% risk:
+
+
+// 6 set
+100% risk:
+0% risk: 254
+10% risk:
+
+
+// 7 set
+100% risk:
+0% risk: 268
+10% risk:
+
+
+// 8 set
+100% risk:
+0% risk: 238
+10% risk:
+
+
+9: 298
+
+10: 217
+
